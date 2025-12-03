@@ -15,4 +15,3 @@ Available in **JSON** and **YAML** versions.
 
 ## License
 This dataset is released under **CC0 1.0 Universal**.
-You are free to use, modify, and distribute it without restrictions.
